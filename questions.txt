@@ -1,0 +1,18 @@
+*understand the data
+*analys the data
+*visualize the data
+*see is there any null value?
+*find is there any outlier?
+*find is there any good correlation with specific feature?
+*see what is the normal rate of water for drinking?
+*scale the data
+*model building
+*find good model using grid search cv?
+*how to improve accuracy of model?
+
+
+*what is the importantce of ph value in drinking water?
+*how we know the hardness of water?
+*how we know that the water has high minerak values?
+*is sulfate level is high in water is possible for drink?
+
